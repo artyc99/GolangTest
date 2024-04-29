@@ -1,1 +1,1 @@
-That code was written by speed. Ned to to make normal code for working with requests.
+That code was written by speed. Need to to make normal code for working with requests. Need wrote tests.
